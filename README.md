@@ -1,7 +1,7 @@
 
 ### <p align="center">👋, I'm OPABRAVO</p>
 <p align="center">
-  A guy who is interested and studying IT security.
+  A guy who is interested in and studying IT security.
   Plus a student who master Information Management.
 </p> 
 
