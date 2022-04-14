@@ -27,6 +27,6 @@
 
 <details open>
 
-![](https://hit.yhype.me/github/profile?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
 </details>
