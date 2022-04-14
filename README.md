@@ -25,8 +25,6 @@
 </p>
 
 
-<details open>
-
-![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
-
-</details>
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
+</p>
