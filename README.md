@@ -1,5 +1,6 @@
 
 ### <p align="center">👋, I'm OPABRAVO</p>
+![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 <p align="center">
   A guy who is interested in and studying IT security.
   Plus a student who master Information Management.
@@ -23,6 +24,3 @@
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=opabravo&layout=compact&theme=react&hide=Shell,Jupyter%20Notebook&hide_border=true>
   </a>
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
