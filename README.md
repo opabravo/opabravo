@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
-
 <p align="center"> ### 👋, I'm OPABRAVO </p> 
 
 <p align="center">
@@ -26,3 +23,9 @@
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=opabravo&layout=compact&theme=react&hide=Shell,Jupyter%20Notebook&hide_border=true>
   </a>
 </p>
+
+<details open>
+
+![](https://hit.yhype.me/github/profile?username=opabravo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
+
+</details>
