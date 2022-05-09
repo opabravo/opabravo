@@ -2,7 +2,7 @@
 
 <p align="center">
   A guy who is interested in and studying IT security.<br>
-  Plus a student who major in Information Management.
+  Plus a student who major in Information technology.
 </p> 
 
 <p align="center">
