@@ -48,9 +48,9 @@
 
 ## Tools
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-[![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 <details open>
