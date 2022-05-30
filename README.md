@@ -1,16 +1,15 @@
-### <p align="center"> 👋, I'm OPABRAVO </p> 
+### <p align="center"> 👋, I'm OPABRAVO </p>
 
 <p align="center">
-  A guy who is interested in and studying IT security.<br>
-  Plus a student who major in Information technology.
-</p> 
+  A guy who is interested in and studying Cyber Security.<br>
+  Plus a student who major in Information Technology.
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats.vercel.app/api?username=opabravo&show_icons=true&theme=react&hide_border=true&count_private=true>
   </a>
 </p>
-
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -27,6 +26,7 @@
 ---
 
 ## Tetch Stack
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -44,12 +44,18 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
 ## Tools
+
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## Social
+
+[![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)](https://app.hackthebox.com/profile/4167)
+[![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@opabravo)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
 
 
 <details open>
