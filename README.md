@@ -2,7 +2,7 @@
 
 <p align="center">
   A guy who is interested in and studying Cyber Security.<br>
-  Obsessed specifically in these fields : <b>OSINT, RE, SE</b><br>
+  Especially obsessed in these fields : <b>OSINT, RE, SE</b><br>
   Plus a student who major in Information Technology.
 </p>
 
