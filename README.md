@@ -1,10 +1,12 @@
-### <p align="center"> 👋, I'm OPABRAVO </p>
+# <p align="center"> 👋, I'm OPABRAVO </p>
 
-<p align="center">
-  A guy who is interested in and studying Cyber Security.<br>
-  Especially obsessed in these fields : <b>OSINT, RE, SE</b><br>
-  Plus a student who major in Information Technology.
-</p>
+<h2>
+  <p align="center">
+    A guy who is interested in and studying Cyber Security.<br>
+    Especially obsessed in these fields : <b>OSINT, RE, SE</b><br>
+    Plus a student who major in Information Technology.
+  </p>
+</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -58,7 +60,6 @@
 [![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)](https://app.hackthebox.com/profile/4167)
 [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@opabravo)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
-
 
 <details open>
 
