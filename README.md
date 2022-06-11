@@ -1,4 +1,4 @@
-# <p align="center"> 👋, I'm OPABRAVO </p>
+# <p align="center"> 👋, I'm Fate Walker (opabravo) </p>
 
 <h2>
   <p align="center">
