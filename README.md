@@ -32,7 +32,12 @@
 - Loves playing **tryhackme koth** and **hackthebox battlegrounds**
 - **Plays CTF**s if got invited by friends, mainly do `Web`, `Misc`, `Osint`, `Forensics` challenges
 - Publishes some **writeups related to cyber security** and put some scripts I wrote on github
-- :point_up_2: 
+
+<p align="center">
+  :point_up_2:
+</p>
+
+
 - Plays Genshin Impact at `TW/HK` server
 - Plays Valorant, highest rank was **Immortal**
 
@@ -57,6 +62,9 @@
 ### Main Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3.11-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 ![](https://img.shields.io/badge/|-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -73,6 +81,7 @@
 ## Tools
 
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)
 ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
