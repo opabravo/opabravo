@@ -64,7 +64,6 @@
 ![Python](https://img.shields.io/badge/python-3.11-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
 ![](https://img.shields.io/badge/|-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
