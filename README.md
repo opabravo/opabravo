@@ -1,11 +1,12 @@
-# <p align="center"> 👋, I'm Fate Walker (opabravo) </p>
+<h2>
+<p align="center"> 👋, I'm Fate Walker (opabravo) </p>
+</h2>
+  
+<p align="center">
+  A guy who is highly interested in and studying Cyber Security.<br><br>
+  Especially obsessed in these fields : <b>Penetration Testing, Forensics, Web Scraping, OSINT, SE</b><br>
+</p>
 
-<h3>
-  <p align="center">
-    A guy who is highly interested in and studying Cyber Security.<br><br>
-    Especially obsessed in these fields : <b>Penetration Testing, Forensics, Web Scraping, OSINT, SE</b><br>
-  </p>
-</h3>
 
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
