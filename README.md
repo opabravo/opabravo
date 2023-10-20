@@ -31,13 +31,12 @@
 ## About me
 
 - Loves playing **tryhackme koth** and **hackthebox battlegrounds**
-- **Plays CTF**s if got invited by friends, mainly do `Web`, `Misc`, `Osint`, `Forensics` challenges
+- **Plays CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
 - Publishes some **writeups related to cyber security** and put some scripts I wrote on github
 
 <p align="center">
   :point_up_2:
 </p>
-
 
 - Plays Genshin Impact at `TW/HK` server
 - Plays Valorant, highest rank was **Immortal**
