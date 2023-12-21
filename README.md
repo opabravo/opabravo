@@ -43,9 +43,9 @@
 
 ## Blogs / Profiles
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
 [![Hack The Box](https://www.hackthebox.com/badge/image/4167)](https://app.hackthebox.com/profile/4167)
-[![Try Hack Me](https://img.shields.io/static/v1?style=for-the-badge&message=Try+Hack+Me&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=)](https://tryhackme.com/p/bravosec)
+[![Try Hack Me](https://raw.githubusercontent.com/opabravo/opabravo/master/assets/thm_propic.png)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
 [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@opabravo)
 [![WebSite](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)](https://greybot.me/)
 
