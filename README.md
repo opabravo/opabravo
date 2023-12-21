@@ -32,7 +32,7 @@
 
 - Loves playing **tryhackme koth** and **hackthebox battlegrounds**
 - **Plays CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
-- Publishes some **writeups related to cyber security** and put some scripts I wrote on github
+- Likes to share some **writeups / Scripts / Knowledge related to cyber security** on github
 
 <p align="center">
   :point_up_2:
@@ -44,7 +44,7 @@
 ## Blogs / Profiles
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
-[![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)](https://app.hackthebox.com/profile/4167)
+[![Hack The Box](https://www.hackthebox.com/badge/image/4167)](https://app.hackthebox.com/profile/4167)
 [![Try Hack Me](https://img.shields.io/static/v1?style=for-the-badge&message=Try+Hack+Me&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=)](https://tryhackme.com/p/bravosec)
 [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@opabravo)
 [![WebSite](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)](https://greybot.me/)
