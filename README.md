@@ -3,7 +3,7 @@
 </h2>
   
 <p align="center">
-  A guy who is highly interested in and studying Cyber Security.<br><br>
+  Cyber Security Enthusiast <br><br>
   Especially obsessed in these fields : <b>Penetration Testing, Forensics, Web Scraping, OSINT, SE</b><br>
 </p>
 
