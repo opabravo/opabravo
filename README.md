@@ -3,7 +3,7 @@
 </h2>
   
 <p align="center">
-  Likes : <b>Penetration Testing, Forensics, OSINT, SE, Data Analysis, Web Scraping</b><br>
+  Interests : <b>Penetration Testing, Forensics, OSINT, SE, Data Analysis, Web Scraping</b><br>
 </p>
 
 
