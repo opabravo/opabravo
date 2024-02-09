@@ -3,8 +3,7 @@
 </h2>
   
 <p align="center">
-  Cyber Security Enthusiast <br><br>
-  Especially obsessed in these fields : <b>Penetration Testing, Forensics, Web Scraping, OSINT, SE</b><br>
+  Likes : <b>Penetration Testing, Forensics, OSINT, SE, Data Analysis, Web Scraping</b><br>
 </p>
 
 
@@ -30,16 +29,15 @@
 
 ## About me
 
-- Loves playing **tryhackme koth** and **hackthebox battlegrounds**
-- **Plays CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
-- Likes to share some **writeups / Scripts / Knowledge related to cyber security** on github
+- **Cyber Security Enthusiast**
+  - Plays **tryhackme koth** and **hackthebox battlegrounds**
+  - **Plays CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
+  - Shares **writeups, Scripts, Knowledge related to cyber security**
 
-<p align="center">
-  :point_up_2:
-</p>
-
-- Plays Genshin Impact at `TW/HK` server
-- Plays Valorant, highest rank was **Immortal**
+- **Gamer**
+  - Genshin Impact, `TW/HK` server
+  - Valorant, highest rank : **Immortal**
+  - The Finals, Asia server, Sick FlameThrower player
 
 ## Blogs / Profiles
 
