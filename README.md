@@ -31,13 +31,13 @@
 
 - **Cyber Security Enthusiast**
   - Plays **tryhackme koth** and **hackthebox battlegrounds**
-  - **Plays CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
-  - Shares **writeups, Scripts, Knowledge related to cyber security**
+  - **Play CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
+  - Shares cyber security related **Writeups, Scripts, Resources**
 
 - **Gamer**
   - Genshin Impact, `TW/HK` server
-  - Valorant, highest rank : **Immortal**
-  - The Finals, Asia server, Sick FlameThrower player
+  - Valorant, highest rank **Immortal**
+  - The Finals, Asia server, Sick FlameThrower player, Platinum 2
 
 ## Blogs / Profiles
 
