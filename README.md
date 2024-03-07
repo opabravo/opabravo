@@ -31,7 +31,7 @@
 
 - **Cyber Security Enthusiast**
   - Plays **tryhackme koth** and **hackthebox battlegrounds**
-  - **Play CTF**s if got invited by others. Focus on `Web`, `Forensics`, `Misc`, `Osint` challenges
+  - **Play CTF**s if got invited by others. Major in `Web`, `Forensics`, `Misc`, `Osint` challenges
   - Shares cyber security related **Writeups, Scripts, Resources**
 
 - **Gamer**
