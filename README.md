@@ -37,7 +37,7 @@
 - **Gamer**
   - Genshin Impact, `TW/HK` server
   - Valorant, highest rank **Immortal**
-  - The Finals, Asia server, Sick FlameThrower player, Platinum 2
+  - The Finals, Asia server, Sick FlameThrower player, **Diamond 4**
 
 ## Blogs / Profiles
 
