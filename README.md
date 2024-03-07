@@ -36,7 +36,7 @@
 
 - **Gamer**
   - Genshin Impact, `TW/HK` server
-  - Valorant, highest rank **Immortal**
+  - Valorant, Odin Abuser, highest rank **Immortal**
   - The Finals, Asia server, Sick FlameThrower player, **Diamond 4**
 
 ## Blogs / Profiles
