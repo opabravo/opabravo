@@ -30,7 +30,7 @@
 ## About me
 
 - **Cyber Security Enthusiast**
-  - Plays **tryhackme koth** and **hackthebox battlegrounds**
+  - Plays **tryhackme King of the Hill** and **hackthebox battlegrounds**
   - **Play CTF**s if got invited by others. Major in `Web`, `Forensics`, `Misc`, `Osint` challenges
   - Shares cyber security related **Writeups, Scripts, Resources**
 
