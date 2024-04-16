@@ -30,7 +30,7 @@
 ## About me
 
 - **Cyber Security Enthusiast**
-  - Plays **tryhackme King of the Hill** and **hackthebox battlegrounds**
+  - Plays **tryhackme King of the Hill** (World top 10) and **hackthebox battlegrounds** (Winning rate 90+%)
   - **Play CTF**s if got invited by others. Major in `Web`, `Forensics`, `Misc`, `Osint` challenges
   - Shares cyber security related **Writeups, Scripts, Resources**
 
