@@ -30,14 +30,14 @@
 ## About me
 
 - **Cyber Security Enthusiast**
-  - Plays **tryhackme King of the Hill** (World top 10) and **hackthebox battlegrounds** (Winning rate 90+%)
-  - **Play CTF**s if got invited by others. Major in `Web`, `Forensics`, `Misc`, `Osint` challenges
-  - Shares cyber security related **Writeups, Scripts, Resources**
+  - Plays **tryhackme King of the Hill** (World top 10) and **hackthebox battlegrounds** (Win rate 90+%)
+  - Play **CTF**s if got invited by others. Major in `Web`, `Forensics`, `Misc`, `Osint` challenges
+  - Contributes cyber security related **Writeups, Scripts, Resources** to open source platform / blog
 
 - **Gamer**
   - Genshin Impact, `TW/HK` server
-  - Valorant, Odin Abuser, highest rank **Immortal**
-  - The Finals, Asia server, Sick FlameThrower player, **Diamond 4**
+  - Valorant, Aisa server, Odin Abuser (highest rank was `Immortal 1`)
+  - The Finals, Asia server, Sick FlameThrower player (`Diamond 4`)
 
 ## Blogs / Profiles
 
