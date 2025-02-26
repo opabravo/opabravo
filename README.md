@@ -3,7 +3,7 @@
 </h2>
   
 <p align="center">
-  Hobbies : <b>Penetration Testing, Forensics, OSINT, SE, Data Analysis, Web Scraping</b><br>
+  Hobbies : <b>Penetration Testing, Forensics, OSINT, SE, Cyber Threat Intelligence, Data Analysis, Web Scraping</b><br>
 </p>
 
 
