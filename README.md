@@ -3,7 +3,7 @@
 </h2>
   
 <p align="center">
-  Hobbies : <b>Penetration Testing, Forensics, OSINT, SE, Cyber Threat Intelligence, Data Analysis, Web Scraping</b><br>
+  Hobbies : <b>Penetration Testing, Purple Teaming, Digital Forensics, OSINT, SE, Cyber Threat Intelligence, Offender Profiling, Data Analysis, Web Scraping</b><br>
 </p>
 
 
@@ -43,7 +43,7 @@
 
 [![Hack The Box](https://www.hackthebox.com/badge/image/4167)](https://app.hackthebox.com/profile/4167)
 [![Try Hack Me](https://i.imgur.com/m6jeDt1.png)](https://tryhackme.com/p/bravosec)
-[![Blog](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)](https://blog.bravosec.net/)
+[![Blog](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=00A98F&logo=About.me&logoColor=FFFFFF&label=)](https://bravosec.net/)
 [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@opabravo)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/opabravo)
 
