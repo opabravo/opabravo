@@ -35,9 +35,10 @@
   - Contributes cyber security related **Writeups, Scripts, Resources** to open source platform / blog
 
 - **Gamer**
-  - Genshin Impact, `TW/HK` server
-  - Valorant, Aisa server, Odin Abuser (highest rank was `Immortal 1`)
-  - The Finals, Asia server, Sick FlameThrower player (`Diamond 4`)
+  - CSGO        : Double AK
+  - Valorant    : Odin Abuser (highest rank was `Immortal 1`)
+  - The Finals  : Sick FlameThrower player (`Diamond 4`) | (2026/02) 125,057 players killed; 10732/16746 (Win/Rounds)
+  - Arc Raiders : PvPvE player | (2026/02) 5,286 players killed; 1,149,476 damage to ARCs
 
 ## Blogs / Profiles
 
