@@ -37,8 +37,8 @@
 - **Gamer**
   - CSGO        : `Double AK` rank
   - Valorant    : Odin Abuser (highest rank was `Immortal 1`)
-  - The Finals  : Sick FlameThrower player (`Diamond 4`) | (`2026/02`) **125,057** players killed; **10732/16746** (Win/Rounds)
-  - Arc Raiders : PvPvE player | (`2026/02`) **5,286** players killed; **1,149,476** damage to ARCs
+  - The Finals  : Sick FlameThrower player (`Ruby`) | (`2026/07`) **137744** players killed; **11956/18339** (Win/Rounds)
+  - Arc Raiders : PvPvE player | (`2026/02`) **10,269** players killed; **1,930,007** damage to ARCs
 
 ## Blogs / Profiles
 
